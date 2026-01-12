@@ -1,0 +1,4668 @@
+[
+  {
+    "id": 28793,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Roger Penrose shared a prize with an English applied physicist, cosmologist, and author.",
+    "evidence": [
+      [
+        [
+          44913,
+          53598,
+          "Roger_Penrose",
+          5
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 44548,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "Tunisia was occupied for eight hundred years.",
+    "evidence": [
+      [
+        [
+          60935,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 80510,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "Anil Kapoor has a dog.",
+    "evidence": [
+      [
+        [
+          97503,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211090,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "The Craft stars Robin Tunney and Fairuza Balk and Neve Campbell.",
+    "evidence": [
+      [
+        [
+          250106,
+          250161,
+          "The_Craft_-LRB-film-RRB-",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 7787,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Judy Greer was in a science-fiction adventure film.",
+    "evidence": [
+      [
+        [
+          12719,
+          15866,
+          "Judy_Greer",
+          3
+        ],
+        [
+          12719,
+          15866,
+          "Jurassic_World",
+          0
+        ]
+      ],
+      [
+        [
+          19383,
+          23776,
+          "Judy_Greer",
+          3
+        ],
+        [
+          19383,
+          23776,
+          "Jurassic_World",
+          0
+        ]
+      ],
+      [
+        [
+          20311,
+          24866,
+          "Judy_Greer",
+          3
+        ],
+        [
+          20311,
+          24866,
+          "Jurassic_World",
+          0
+        ]
+      ],
+      [
+        [
+          203691,
+          212663,
+          "Judy_Greer",
+          3
+        ],
+        [
+          203691,
+          212663,
+          "Jurassic_World",
+          0
+        ]
+      ],
+      [
+        [
+          299104,
+          290479,
+          "Judy_Greer",
+          3
+        ],
+        [
+          299104,
+          290479,
+          "Jurassic_World",
+          0
+        ]
+      ],
+      [
+        [
+          299126,
+          290504,
+          "Judy_Greer",
+          3
+        ],
+        [
+          299126,
+          290504,
+          "Jurassic_World",
+          0
+        ]
+      ],
+      [
+        [
+          301192,
+          292306,
+          "Judy_Greer",
+          3
+        ],
+        [
+          301192,
+          292306,
+          "Jurassic_World",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 2379,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Conor McGregor won Featherweight and Lightweight Championships in 2012.",
+    "evidence": [
+      [
+        [
+          18188,
+          22343,
+          "Conor_McGregor",
+          5
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 30440,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "Akbar was a patron of sandwiches.",
+    "evidence": [
+      [
+        [
+          46605,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 136941,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "The film Gardens of the Night features Gillian Jacobs.",
+    "evidence": [
+      [
+        [
+          159671,
+          174168,
+          "Gillian_Jacobs",
+          3
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 154149,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Doctor Who has been played by multiple performers",
+    "evidence": [
+      [
+        [
+          293415,
+          285962,
+          "Doctor_Who",
+          1
+        ],
+        [
+          293415,
+          285962,
+          "The_Doctor_-LRB-Doctor_Who-RRB-",
+          9
+        ]
+      ],
+      [
+        [
+          341713,
+          326031,
+          "Doctor_Who",
+          10
+        ]
+      ],
+      [
+        [
+          341713,
+          326032,
+          "Doctor_Who",
+          4
+        ]
+      ],
+      [
+        [
+          341713,
+          326033,
+          "Doctor_Who",
+          1
+        ]
+      ],
+      [
+        [
+          341713,
+          326034,
+          "Doctor_Who",
+          11
+        ]
+      ],
+      [
+        [
+          341713,
+          326035,
+          "Doctor_Who",
+          16
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 200214,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "Dominick Dunne was involved in the television series The Boys in the Band.",
+    "evidence": [
+      [
+        [
+          235494,
+          238116,
+          "Dominick_Dunne",
+          3
+        ],
+        [
+          235494,
+          238116,
+          "The_Boys_in_the_Band",
+          0
+        ]
+      ],
+      [
+        [
+          235496,
+          238118,
+          "Dominick_Dunne",
+          3
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 68833,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Dwight D. Eisenhower graduated from West Point in 1915.",
+    "evidence": [
+      [
+        [
+          218690,
+          224925,
+          "Dwight_D._Eisenhower",
+          8
+        ]
+      ],
+      [
+        [
+          220651,
+          226469,
+          "Dwight_D._Eisenhower",
+          8
+        ]
+      ],
+      [
+        [
+          221442,
+          227044,
+          "Dwight_D._Eisenhower",
+          8
+        ]
+      ],
+      [
+        [
+          317715,
+          306730,
+          "Dwight_D._Eisenhower",
+          8
+        ]
+      ],
+      [
+        [
+          317721,
+          306734,
+          "Dwight_D._Eisenhower",
+          8
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 159293,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "The Secret Life of Us has aired in Northern Norway.",
+    "evidence": [
+      [
+        [
+          183643,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 66122,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "A show starring Lauren Graham featured Jared Padalecki.",
+    "evidence": [
+      [
+        [
+          209759,
+          217549,
+          "Jared_Padalecki",
+          0
+        ]
+      ],
+      [
+        [
+          212265,
+          219858,
+          "Jared_Padalecki",
+          2
+        ],
+        [
+          212265,
+          219858,
+          "Gilmore_Girls",
+          0
+        ]
+      ],
+      [
+        [
+          214900,
+          221876,
+          "Jared_Padalecki",
+          2
+        ],
+        [
+          214900,
+          221876,
+          "Gilmore_Girls",
+          0
+        ],
+        [
+          214900,
+          221876,
+          "Gilmore_Girls",
+          6
+        ]
+      ],
+      [
+        [
+          316172,
+          305374,
+          "Jared_Padalecki",
+          2
+        ],
+        [
+          316172,
+          305374,
+          "Gilmore_Girls",
+          0
+        ]
+      ],
+      [
+        [
+          317011,
+          306103,
+          "Jared_Padalecki",
+          2
+        ],
+        [
+          317011,
+          306103,
+          "Gilmore_Girls",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 39428,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "Gianluigi Buffon played with no one in 1995.",
+    "evidence": [
+      [
+        [
+          55731,
+          65777,
+          "Gianluigi_Buffon",
+          9
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 155008,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "New York City includes a school.",
+    "evidence": [
+      [
+        [
+          179084,
+          191627,
+          "New_York_City",
+          33
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 205878,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "Song Sung Blue was recorded by a dog.",
+    "evidence": [
+      [
+        [
+          243309,
+          244548,
+          "Song_Sung_Blue",
+          0
+        ],
+        [
+          243309,
+          244548,
+          "Neil_Diamond",
+          0
+        ]
+      ],
+      [
+        [
+          243311,
+          244549,
+          "Song_Sung_Blue",
+          0
+        ],
+        [
+          243311,
+          244549,
+          "Neil_Diamond",
+          0
+        ],
+        [
+          243311,
+          244549,
+          "Neil_Diamond",
+          1
+        ],
+        [
+          243311,
+          244549,
+          "Neil_Diamond",
+          6
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 40791,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Feels So Good was written by Jimmy Jam.",
+    "evidence": [
+      [
+        [
+          121430,
+          135723,
+          "Feels_So_Good_-LRB-Mel_B_song-RRB-",
+          1
+        ]
+      ],
+      [
+        [
+          123258,
+          137662,
+          "Feels_So_Good_-LRB-Mel_B_song-RRB-",
+          1
+        ]
+      ],
+      [
+        [
+          124750,
+          139099,
+          "Feels_So_Good_-LRB-Mel_B_song-RRB-",
+          1
+        ]
+      ],
+      [
+        [
+          308676,
+          298998,
+          "Feels_So_Good_-LRB-Mel_B_song-RRB-",
+          1
+        ]
+      ],
+      [
+        [
+          310355,
+          300416,
+          "Feels_So_Good_-LRB-Mel_B_song-RRB-",
+          1
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 116973,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "Miranda Kerr is not a Victoria's Secret model.",
+    "evidence": [
+      [
+        [
+          137336,
+          152172,
+          "Miranda_Kerr",
+          1
+        ]
+      ],
+      [
+        [
+          137336,
+          152173,
+          "Miranda_Kerr",
+          2
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 25455,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Joseph Gordon-Levitt played Philippe Petit in the biopic The Walk.",
+    "evidence": [
+      [
+        [
+          41422,
+          49799,
+          "Joseph_Gordon-Levitt",
+          4
+        ],
+        [
+          41422,
+          49799,
+          "The_Walk_-LRB-2015_film-RRB-",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 30828,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Ricin comes from a seed.",
+    "evidence": [
+      [
+        [
+          46974,
+          56050,
+          "Ricin",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 157628,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Inspectah Deck is a performer.",
+    "evidence": [
+      [
+        [
+          297857,
+          289446,
+          "Inspectah_Deck",
+          0
+        ]
+      ],
+      [
+        [
+          342689,
+          326636,
+          "Inspectah_Deck",
+          0
+        ]
+      ],
+      [
+        [
+          342737,
+          326662,
+          "Inspectah_Deck",
+          0
+        ]
+      ],
+      [
+        [
+          342889,
+          326766,
+          "Inspectah_Deck",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 223067,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Cambodia have minority groups.",
+    "evidence": [
+      [
+        [
+          265719,
+          262905,
+          "Cambodia",
+          6
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 126036,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "Usain Bolt won the 100 meter gold medal in the 2008 Olympics.",
+    "evidence": [
+      [
+        [
+          147862,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 199851,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "The Blue Lagoon is in the same trilogy as another novel.",
+    "evidence": [
+      [
+        [
+          235056,
+          237812,
+          "The_Blue_Lagoon_-LRB-novel-RRB-",
+          1
+        ],
+        [
+          235056,
+          237812,
+          "The_Garden_of_God",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 90898,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "The Red Army invasion of Georgia is also known as something else.",
+    "evidence": [
+      [
+        [
+          108232,
+          121760,
+          "Red_Army_invasion_of_Georgia",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 7061,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Josh Homme has been involved with numerous projects.",
+    "evidence": [
+      [
+        [
+          23973,
+          29683,
+          "Josh_Homme",
+          9
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 123433,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Morena Baccarin was nominated for an Emmy.",
+    "evidence": [
+      [
+        [
+          144939,
+          159950,
+          "Morena_Baccarin",
+          1
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 128713,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Taylor Swift is an American singer-songwriter.",
+    "evidence": [
+      [
+        [
+          150753,
+          165595,
+          "Taylor_Swift",
+          0
+        ]
+      ],
+      [
+        [
+          150781,
+          165627,
+          "Taylor_Swift",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 31289,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Mike Portnoy replaced Mike Mangini.",
+    "evidence": [
+      [
+        [
+          47432,
+          56599,
+          "Mike_Portnoy",
+          16
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 71988,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "Leonardo da Vinci is considered the father of architecture since 1988.",
+    "evidence": [
+      [
+        [
+          228864,
+          null,
+          null,
+          null
+        ],
+        [
+          232789,
+          null,
+          null,
+          null
+        ],
+        [
+          319964,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 157613,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Anne Frank was a person who kept a diary.",
+    "evidence": [
+      [
+        [
+          181826,
+          194096,
+          "Anne_Frank",
+          0
+        ]
+      ],
+      [
+        [
+          181826,
+          194097,
+          "Anne_Frank",
+          1
+        ],
+        [
+          181826,
+          194097,
+          "The_Diary_of_a_Young_Girl",
+          0
+        ]
+      ],
+      [
+        [
+          181826,
+          194098,
+          "Anne_Frank",
+          9
+        ]
+      ],
+      [
+        [
+          181826,
+          194099,
+          "Anne_Frank",
+          15
+        ]
+      ],
+      [
+        [
+          181826,
+          194100,
+          "Anne_Frank",
+          16
+        ],
+        [
+          181826,
+          194100,
+          "The_Diary_of_a_Young_Girl",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 176748,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Tony Bill directed a film written by Alan Ormsby and he is American.",
+    "evidence": [
+      [
+        [
+          204775,
+          213476,
+          "Tony_Bill",
+          3
+        ],
+        [
+          204775,
+          213476,
+          "My_Bodyguard",
+          0
+        ],
+        [
+          204775,
+          213476,
+          "Tony_Bill",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 107682,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "The Olympic Games has two different events.",
+    "evidence": [
+      [
+        [
+          126388,
+          140782,
+          "Olympic_Games",
+          23
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 178140,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "Chris Hardwick hosted a live hour talk show on AMC in 1999.",
+    "evidence": [
+      [
+        [
+          206487,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 25288,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "Judd Apatow was incapable of producing The Cable Guy.",
+    "evidence": [
+      [
+        [
+          41236,
+          49571,
+          "Judd_Apatow",
+          8
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 41877,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Macbeth is a movie.",
+    "evidence": [
+      [
+        [
+          58209,
+          68436,
+          "Macbeth_-LRB-1971_film-RRB-",
+          0
+        ]
+      ],
+      [
+        [
+          58209,
+          68437,
+          "Macbeth_-LRB-1971_film-RRB-",
+          1
+        ]
+      ],
+      [
+        [
+          58209,
+          68438,
+          "Macbeth_-LRB-1971_film-RRB-",
+          2
+        ]
+      ],
+      [
+        [
+          58209,
+          68439,
+          "Macbeth_-LRB-1971_film-RRB-",
+          7
+        ]
+      ],
+      [
+        [
+          58209,
+          68440,
+          "Macbeth_-LRB-1971_film-RRB-",
+          8
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 159604,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "Richard Burbage has power as a dog.",
+    "evidence": [
+      [
+        [
+          184008,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 145788,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Marilyn Monroe died in the 20th Century.",
+    "evidence": [
+      [
+        [
+          169132,
+          182804,
+          "Marilyn_Monroe",
+          0
+        ]
+      ],
+      [
+        [
+          169132,
+          182805,
+          "Marilyn_Monroe",
+          29
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 20741,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Willie Nelson attended Baylor.",
+    "evidence": [
+      [
+        [
+          38617,
+          46577,
+          "Willie_Nelson",
+          9
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 193084,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Supernatural (U.S. TV series) was first aired on September 13, 2005 on The WB.",
+    "evidence": [
+      [
+        [
+          226070,
+          230614,
+          "Supernatural_-LRB-U.S._TV_series-RRB-",
+          1
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 129621,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Steven Zaillian won an award.",
+    "evidence": [
+      [
+        [
+          151824,
+          166587,
+          "Steven_Zaillian",
+          4
+        ]
+      ],
+      [
+        [
+          151824,
+          166588,
+          "Steven_Zaillian",
+          5
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 195562,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Joy stars an American actress.",
+    "evidence": [
+      [
+        [
+          229758,
+          233614,
+          "Joy_-LRB-film-RRB-",
+          0
+        ],
+        [
+          229758,
+          233614,
+          "Jennifer_Lawrence",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 59834,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Gregor Clegane is a knight.",
+    "evidence": [
+      [
+        [
+          76242,
+          87532,
+          "Gregor_Clegane",
+          9
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 51095,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "The biggest city in Portugal is Lisbon.",
+    "evidence": [
+      [
+        [
+          67439,
+          78262,
+          "Lisbon",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 184017,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Tom Hardy appeared in a film.",
+    "evidence": [
+      [
+        [
+          214208,
+          221293,
+          "Tom_Hardy",
+          4
+        ]
+      ],
+      [
+        [
+          214208,
+          221294,
+          "Tom_Hardy",
+          5
+        ]
+      ],
+      [
+        [
+          214208,
+          221295,
+          "Tom_Hardy",
+          6
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 124047,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "Liverpool F.C. is in the European school system.",
+    "evidence": [
+      [
+        [
+          145572,
+          160573,
+          "Liverpool_F.C.",
+          1
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 84462,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "The Handmaid's Tale won a British award in 1987.",
+    "evidence": [
+      [
+        [
+          101512,
+          114758,
+          "The_Handmaid's_Tale",
+          5
+        ],
+        [
+          101512,
+          114758,
+          "Arthur_C._Clarke_Award",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 26451,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Daniel Radcliffe was in The Woman in Black.",
+    "evidence": [
+      [
+        [
+          42526,
+          51176,
+          "Daniel_Radcliffe",
+          6
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 133387,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "Odin was known in Old High German as Bobby.",
+    "evidence": [
+      [
+        [
+          155927,
+          170608,
+          "Odin",
+          2
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 211533,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "Ryan Gosling earned a Grammy nomination.",
+    "evidence": [
+      [
+        [
+          250668,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 83913,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "Sepsis rates have been decreasing.",
+    "evidence": [
+      [
+        [
+          26863,
+          32982,
+          "Sepsis",
+          38
+        ]
+      ],
+      [
+        [
+          301010,
+          292139,
+          "Sepsis",
+          38
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 221916,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "The Narrows is an independent horror film.",
+    "evidence": [
+      [
+        [
+          264270,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 191400,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "In 1966, Frank Zappa released his debut album.",
+    "evidence": [
+      [
+        [
+          223806,
+          228741,
+          "Frank_Zappa",
+          10
+        ]
+      ],
+      [
+        [
+          223816,
+          228748,
+          "Frank_Zappa",
+          10
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 46778,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "The Illusionist stars Robert Pattinson.",
+    "evidence": [
+      [
+        [
+          63104,
+          73810,
+          "The_Illusionist_-LRB-2006_film-RRB-",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 53066,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "Selena Gomez's single \"Good for You\" topped the Forbes' list.",
+    "evidence": [
+      [
+        [
+          69349,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 163344,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Mickey Mantle was an American baseball player.",
+    "evidence": [
+      [
+        [
+          188089,
+          199635,
+          "Mickey_Mantle",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 132270,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "Gone Girl lacks a performance by Tyler Perry.",
+    "evidence": [
+      [
+        [
+          154678,
+          169414,
+          "Gone_Girl_-LRB-film-RRB-",
+          1
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 138993,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "James McAvoy was in Children of Dune.",
+    "evidence": [
+      [
+        [
+          161782,
+          176211,
+          "James_McAvoy",
+          2
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 26772,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "George Clooney is an activist.",
+    "evidence": [
+      [
+        [
+          42929,
+          51570,
+          "George_Clooney",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 114678,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "The Fisher King features Mercedes Ruehl as director.",
+    "evidence": [
+      [
+        [
+          282337,
+          276537,
+          "The_Fisher_King",
+          0
+        ]
+      ],
+      [
+        [
+          284310,
+          278150,
+          "The_Fisher_King",
+          0
+        ]
+      ],
+      [
+        [
+          330465,
+          317046,
+          "The_Fisher_King",
+          0
+        ]
+      ],
+      [
+        [
+          331640,
+          318134,
+          "The_Fisher_King",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 9853,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "Saving Private Ryan was directed by a person born in December.",
+    "evidence": [
+      [
+        [
+          24709,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 23399,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "Mike Pence became a conservative grave robber.",
+    "evidence": [
+      [
+        [
+          39346,
+          47381,
+          "Mike_Pence",
+          5
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 146845,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Beverly Hills, 90210 addressed numerous topical issues such as date rape, gay rights, animal rights, alcoholism, drug abuse, domestic violence, sex, antisemitism, racism, teenage suicide, teenage pregnancy, and AIDS.",
+    "evidence": [
+      [
+        [
+          170381,
+          183940,
+          "Beverly_Hills,_90210",
+          10
+        ],
+        [
+          170381,
+          183940,
+          "Beverly_Hills,_90210",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 167592,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "Suits features only characters with names that begin with the letter Q.",
+    "evidence": [
+      [
+        [
+          192907,
+          203582,
+          "Suits_-LRB-TV_series-RRB-",
+          3
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 180809,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Central America contains Panama.",
+    "evidence": [
+      [
+        [
+          209859,
+          217658,
+          "Central_America",
+          2
+        ]
+      ],
+      [
+        [
+          209859,
+          217659,
+          "Central_America",
+          6
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 133298,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "The Lego Movie was released in 2016.",
+    "evidence": [
+      [
+        [
+          155843,
+          170528,
+          "The_Lego_Movie",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 33189,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Eric Trump has an older brother.",
+    "evidence": [
+      [
+        [
+          49270,
+          58602,
+          "Eric_Trump",
+          2
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 99479,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "Tyrion Lannister is portrayed by sheep.",
+    "evidence": [
+      [
+        [
+          118680,
+          132530,
+          "Tyrion_Lannister",
+          20
+        ],
+        [
+          118680,
+          132530,
+          "Peter_Dinklage",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 152571,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "George A. Romero directed Creepshow.",
+    "evidence": [
+      [
+        [
+          176516,
+          189458,
+          "George_A._Romero",
+          1
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 156223,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "Pixar began in 1980.",
+    "evidence": [
+      [
+        [
+          180277,
+          192807,
+          "Pixar",
+          1
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 227149,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "Berlin is 3.7 million years old.",
+    "evidence": [
+      [
+        [
+          270854,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 204397,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "In 1928, CBS was renamed.",
+    "evidence": [
+      [
+        [
+          241342,
+          242891,
+          "CBS",
+          9
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 144929,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Harley Quinn frequently accompanies the Joker.",
+    "evidence": [
+      [
+        [
+          168217,
+          181965,
+          "Harley_Quinn",
+          5
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 227402,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Jun Ji-hyun is in the film called Windstruck.",
+    "evidence": [
+      [
+        [
+          271203,
+          267138,
+          "Jun_Ji-hyun",
+          2
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 75567,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "Yangon has over 7 thousand people.",
+    "evidence": [
+      [
+        [
+          92357,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 187671,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "Levi Miller was the director of the 2015 film Pan.",
+    "evidence": [
+      [
+        [
+          218981,
+          225132,
+          "Levi_Miller",
+          1
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 23926,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Arrested Development is set in Newport Beach.",
+    "evidence": [
+      [
+        [
+          39861,
+          47948,
+          "Arrested_Development_-LRB-TV_series-RRB-",
+          6
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 117401,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Ethiopia contains the Amhara Region.",
+    "evidence": [
+      [
+        [
+          137757,
+          152689,
+          "Ethiopia",
+          22
+        ],
+        [
+          137757,
+          152689,
+          "Amhara_people",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 29462,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Huntington's disease can be diagnosed through genetic testing.",
+    "evidence": [
+      [
+        [
+          84024,
+          96143,
+          "Huntington's_disease",
+          18
+        ]
+      ],
+      [
+        [
+          86599,
+          99065,
+          "Huntington's_disease",
+          18
+        ]
+      ],
+      [
+        [
+          88392,
+          101010,
+          "Huntington's_disease",
+          18
+        ]
+      ],
+      [
+        [
+          307369,
+          297874,
+          "Huntington's_disease",
+          18
+        ]
+      ],
+      [
+        [
+          307369,
+          297875,
+          "Huntington's_disease",
+          19
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 14008,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "The Boys from Brazil features Lilli Palmer.",
+    "evidence": [
+      [
+        [
+          29268,
+          35692,
+          "The_Boys_from_Brazil_-LRB-film-RRB-",
+          1
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 220328,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Margaret of Valois had a husband.",
+    "evidence": [
+      [
+        [
+          262211,
+          260242,
+          "Margaret_of_Valois",
+          4
+        ]
+      ],
+      [
+        [
+          262211,
+          260243,
+          "Margaret_of_Valois",
+          13
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 217522,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Tardigrades have been found in mud volcano.",
+    "evidence": [
+      [
+        [
+          258523,
+          257313,
+          "Tardigrade",
+          3
+        ]
+      ],
+      [
+        [
+          258525,
+          257315,
+          "Tardigrade",
+          3
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 154349,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Filmfare is a publication.",
+    "evidence": [
+      [
+        [
+          178336,
+          190927,
+          "Filmfare",
+          0
+        ]
+      ],
+      [
+        [
+          178336,
+          190928,
+          "Filmfare",
+          1
+        ]
+      ],
+      [
+        [
+          178336,
+          190929,
+          "Filmfare",
+          2
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 56020,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Lynyrd Skynyrd has a lead vocalist.",
+    "evidence": [
+      [
+        [
+          72377,
+          83431,
+          "Lynyrd_Skynyrd",
+          7
+        ],
+        [
+          72377,
+          83431,
+          "Johnny_Van_Zant",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 130256,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "The Gestapo were overseen by Heinrich Himmler.",
+    "evidence": [
+      [
+        [
+          152491,
+          167303,
+          "Heinrich_Himmler",
+          10
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 193216,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "In July 1700, the Prussian Academy of Sciences was established.",
+    "evidence": [
+      [
+        [
+          226228,
+          230836,
+          "Prussian_Academy_of_Sciences",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 88555,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "Archimedes was a Scientologist.",
+    "evidence": [
+      [
+        [
+          105778,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 51633,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Al Gore has a middle name.",
+    "evidence": [
+      [
+        [
+          67957,
+          78814,
+          "Al_Gore",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 172601,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "Take a Bow was released by Motown Records.",
+    "evidence": [
+      [
+        [
+          199264,
+          208993,
+          "Take_a_Bow_-LRB-Madonna_song-RRB-",
+          1
+        ]
+      ],
+      [
+        [
+          199265,
+          208994,
+          "Take_a_Bow_-LRB-Madonna_song-RRB-",
+          1
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 101669,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Star Trek references can be found.",
+    "evidence": [
+      [
+        [
+          278914,
+          273579,
+          "Star_Trek",
+          30
+        ]
+      ],
+      [
+        [
+          327009,
+          314343,
+          "Star_Trek",
+          30
+        ]
+      ],
+      [
+        [
+          328415,
+          315472,
+          "Star_Trek",
+          30
+        ]
+      ],
+      [
+        [
+          328417,
+          315474,
+          "Star_Trek",
+          30
+        ]
+      ],
+      [
+        [
+          328421,
+          315477,
+          "Star_Trek",
+          30
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 55937,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "In 2012, Katy Perry released an autobiographical documentary.",
+    "evidence": [
+      [
+        [
+          72299,
+          83327,
+          "Katy_Perry",
+          18
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 4945,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Raggedy Ann was created by an American writer.",
+    "evidence": [
+      [
+        [
+          21304,
+          26175,
+          "Raggedy_Ann",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 194629,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "Avatar: The Last Airbender ran for 61 episodes.",
+    "evidence": [
+      [
+        [
+          227976,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 106547,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Indonesia is between the Indian and Pacific oceans.",
+    "evidence": [
+      [
+        [
+          279595,
+          274236,
+          "Indonesia",
+          1
+        ]
+      ],
+      [
+        [
+          281310,
+          275712,
+          "Indonesia",
+          1
+        ]
+      ],
+      [
+        [
+          283476,
+          277489,
+          "Indonesia",
+          1
+        ]
+      ],
+      [
+        [
+          327954,
+          315124,
+          "Indonesia",
+          1
+        ]
+      ],
+      [
+        [
+          328931,
+          315869,
+          "Indonesia",
+          1
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 138816,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "Mitt Romney worked at an American firm headquartered in New York City.",
+    "evidence": [
+      [
+        [
+          161622,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 160703,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "Hayley Atwell is Yiddish.",
+    "evidence": [
+      [
+        [
+          185221,
+          197017,
+          "Hayley_Atwell",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 212962,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "Marlon Brando was in The Battle of Chile.",
+    "evidence": [
+      [
+        [
+          252612,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 188350,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "Joey Graceffa is anything but a YouTuber.",
+    "evidence": [
+      [
+        [
+          219821,
+          225744,
+          "Joey_Graceffa",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 185693,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Ben Whishaw was in productions.",
+    "evidence": [
+      [
+        [
+          216520,
+          223212,
+          "Ben_Whishaw",
+          1
+        ]
+      ],
+      [
+        [
+          216520,
+          223213,
+          "Ben_Whishaw",
+          2
+        ]
+      ],
+      [
+        [
+          216523,
+          223216,
+          "Ben_Whishaw",
+          1
+        ]
+      ],
+      [
+        [
+          216523,
+          223217,
+          "Ben_Whishaw",
+          2
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 5584,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Where the Wild Things Are was released in October.",
+    "evidence": [
+      [
+        [
+          11514,
+          14483,
+          "Where_the_Wild_Things_Are_-LRB-film-RRB-",
+          13
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 222627,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "Austria's largest city is Budapest.",
+    "evidence": [
+      [
+        [
+          265200,
+          262451,
+          "Austria",
+          29
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 8097,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "Borussia Dortmund's colors are pink and green.",
+    "evidence": [
+      [
+        [
+          13216,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 112464,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "Gong Yoo is a Buddhist.",
+    "evidence": [
+      [
+        [
+          131978,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 150111,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Tim Allen starred in a show.",
+    "evidence": [
+      [
+        [
+          173932,
+          187115,
+          "Tim_Allen",
+          4
+        ]
+      ],
+      [
+        [
+          173933,
+          187116,
+          "Tim_Allen",
+          3
+        ]
+      ],
+      [
+        [
+          173933,
+          187117,
+          "Tim_Allen",
+          4
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 94716,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "The Rolling Stones' original line-up included Michael Jackson.",
+    "evidence": [
+      [
+        [
+          112175,
+          125991,
+          "The_Rolling_Stones",
+          1
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 168142,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "John Connally was a Libertarian.",
+    "evidence": [
+      [
+        [
+          193593,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 80398,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "The Directors Guild of America was founded in Berlin.",
+    "evidence": [
+      [
+        [
+          97386,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 26897,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Vitamin B12 is not produced by fungi.",
+    "evidence": [
+      [
+        [
+          43080,
+          51721,
+          "Vitamin_B12",
+          3
+        ]
+      ],
+      [
+        [
+          43080,
+          51722,
+          "Vitamin_B12",
+          4
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 157155,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "Ramadan is the longest month of the Islamic calendar.",
+    "evidence": [
+      [
+        [
+          181290,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 166986,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "American Pie was created in 1452.",
+    "evidence": [
+      [
+        [
+          192089,
+          202837,
+          "American_Pie_-LRB-film-RRB-",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 138183,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "50 Cent released at least ten studio albums.",
+    "evidence": [
+      [
+        [
+          161985,
+          176378,
+          "50_Cent",
+          10
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 185885,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "Niall Horan wrote a song called This Town.",
+    "evidence": [
+      [
+        [
+          216737,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 161265,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "Egypt is a city.",
+    "evidence": [
+      [
+        [
+          185816,
+          197593,
+          "Egypt",
+          0
+        ]
+      ],
+      [
+        [
+          185816,
+          197594,
+          "Egypt",
+          1
+        ]
+      ],
+      [
+        [
+          185816,
+          197595,
+          "Egypt",
+          5
+        ]
+      ],
+      [
+        [
+          185816,
+          197596,
+          "Egypt",
+          9
+        ]
+      ],
+      [
+        [
+          185816,
+          197597,
+          "Egypt",
+          12
+        ]
+      ],
+      [
+        [
+          185816,
+          197598,
+          "Egypt",
+          15
+        ],
+        [
+          185816,
+          197598,
+          "Alexandria",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 70089,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "World War I failed to draw in the world's economic great powers.",
+    "evidence": [
+      [
+        [
+          86760,
+          99221,
+          "World_War_I",
+          6
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 149463,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Nikolaj Coster-Waldau starred in the Danish thriller film \"Nightwatch\" in 1994.",
+    "evidence": [
+      [
+        [
+          173264,
+          186526,
+          "Nikolaj_Coster-Waldau",
+          2
+        ],
+        [
+          173264,
+          186526,
+          "Nightwatch_-LRB-1994_film-RRB-",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 59942,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "Elvis Presley never owned Graceland.",
+    "evidence": [
+      [
+        [
+          76368,
+          87661,
+          "Elvis_Presley",
+          18
+        ],
+        [
+          76368,
+          87661,
+          "Graceland",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 5922,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "1950 was the year Jennifer Grey was born in.",
+    "evidence": [
+      [
+        [
+          22665,
+          27974,
+          "Jennifer_Grey",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 63327,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Valerian and the City of a Thousand Planets is a film.",
+    "evidence": [
+      [
+        [
+          201171,
+          210623,
+          "Valerian_and_the_City_of_a_Thousand_Planets",
+          0
+        ]
+      ],
+      [
+        [
+          203968,
+          212860,
+          "Valerian_and_the_City_of_a_Thousand_Planets",
+          0
+        ]
+      ],
+      [
+        [
+          203968,
+          212861,
+          "Valerian_and_the_City_of_a_Thousand_Planets",
+          1
+        ]
+      ],
+      [
+        [
+          203968,
+          212862,
+          "Valerian_and_the_City_of_a_Thousand_Planets",
+          3
+        ]
+      ],
+      [
+        [
+          206395,
+          214755,
+          "Valerian_and_the_City_of_a_Thousand_Planets",
+          0
+        ]
+      ],
+      [
+        [
+          315550,
+          304786,
+          "Valerian_and_the_City_of_a_Thousand_Planets",
+          0
+        ]
+      ],
+      [
+        [
+          315550,
+          304787,
+          "Valerian_and_the_City_of_a_Thousand_Planets",
+          1
+        ]
+      ],
+      [
+        [
+          315550,
+          304788,
+          "Valerian_and_the_City_of_a_Thousand_Planets",
+          3
+        ]
+      ],
+      [
+        [
+          315551,
+          304789,
+          "Valerian_and_the_City_of_a_Thousand_Planets",
+          0
+        ]
+      ],
+      [
+        [
+          315552,
+          304790,
+          "Valerian_and_the_City_of_a_Thousand_Planets",
+          0
+        ]
+      ],
+      [
+        [
+          315552,
+          304791,
+          "Valerian_and_the_City_of_a_Thousand_Planets",
+          1
+        ]
+      ],
+      [
+        [
+          315552,
+          304792,
+          "Valerian_and_the_City_of_a_Thousand_Planets",
+          3
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 25726,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Matthew Carnahan created Dirt.",
+    "evidence": [
+      [
+        [
+          41717,
+          50161,
+          "Dirt_-LRB-TV_series-RRB-",
+          9
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 102364,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "David Beckham was with Machester.",
+    "evidence": [
+      [
+        [
+          120190,
+          134366,
+          "David_Beckham",
+          1
+        ]
+      ],
+      [
+        [
+          120190,
+          134367,
+          "David_Beckham",
+          11
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 163151,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Rashida Jones was a cast member in Our Idiot Brother.",
+    "evidence": [
+      [
+        [
+          296871,
+          288603,
+          "Rashida_Jones",
+          2
+        ]
+      ],
+      [
+        [
+          298520,
+          290005,
+          "Rashida_Jones",
+          2
+        ]
+      ],
+      [
+        [
+          298521,
+          290006,
+          "Rashida_Jones",
+          2
+        ]
+      ],
+      [
+        [
+          344155,
+          327729,
+          "Rashida_Jones",
+          2
+        ]
+      ],
+      [
+        [
+          344209,
+          327767,
+          "Rashida_Jones",
+          2
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 83167,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "One of the former territories of the British Empire is Australia.",
+    "evidence": [
+      [
+        [
+          100211,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 172920,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "The Oprah Winfrey Show stopped being submitted for Daytime Emmys by Oprah in 2000 after winning 47 awards.",
+    "evidence": [
+      [
+        [
+          199663,
+          209343,
+          "The_Oprah_Winfrey_Show",
+          10
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 214143,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Celeste and Jesse Forever was co-written by Will McCormack.",
+    "evidence": [
+      [
+        [
+          254216,
+          253950,
+          "Celeste_and_Jesse_Forever",
+          1
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 125306,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Isis is a deity.",
+    "evidence": [
+      [
+        [
+          146980,
+          161946,
+          "Isis",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 188389,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Joey Graceffa is a type of person.",
+    "evidence": [
+      [
+        [
+          219870,
+          225776,
+          "Joey_Graceffa",
+          0
+        ],
+        [
+          219870,
+          225776,
+          "List_of_YouTubers",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 24006,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "Diana Rigg finished college in 1938.",
+    "evidence": [
+      [
+        [
+          39940,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 134372,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Spain has territory next to Morocco.",
+    "evidence": [
+      [
+        [
+          287973,
+          281256,
+          "Spain",
+          2
+        ]
+      ],
+      [
+        [
+          289513,
+          282569,
+          "Spain",
+          2
+        ]
+      ],
+      [
+        [
+          336892,
+          322371,
+          "Spain",
+          0
+        ]
+      ],
+      [
+        [
+          336893,
+          322372,
+          "Spain",
+          2
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 14244,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "Lonesome Dove is the first installment in the Tu Rostro Manana series.",
+    "evidence": [
+      [
+        [
+          29519,
+          35999,
+          "Lonesome_Dove_-LRB-miniseries-RRB-",
+          1
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 197952,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Until Dawn is a game.",
+    "evidence": [
+      [
+        [
+          232709,
+          235854,
+          "Until_Dawn",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 205575,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Wyatt Earp was a saloon-keeper and he was American.",
+    "evidence": [
+      [
+        [
+          242911,
+          244135,
+          "Wyatt_Earp",
+          0
+        ],
+        [
+          242911,
+          244135,
+          "Wyatt_Earp",
+          5
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 83826,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "The Panic in Needle Park featured a performance by Kitty Winn.",
+    "evidence": [
+      [
+        [
+          100865,
+          114126,
+          "The_Panic_in_Needle_Park",
+          5
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 216559,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "One single by The Who was \"The Seeker\".",
+    "evidence": [
+      [
+        [
+          257295,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 13307,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Miranda Kerr is person from Australia.",
+    "evidence": [
+      [
+        [
+          29903,
+          36458,
+          "Miranda_Kerr",
+          0
+        ]
+      ],
+      [
+        [
+          29903,
+          36459,
+          "Miranda_Kerr",
+          2
+        ]
+      ],
+      [
+        [
+          32147,
+          39055,
+          "Miranda_Kerr",
+          0
+        ]
+      ],
+      [
+        [
+          32147,
+          39056,
+          "Miranda_Kerr",
+          2
+        ]
+      ],
+      [
+        [
+          34930,
+          42347,
+          "Miranda_Kerr",
+          0
+        ]
+      ],
+      [
+        [
+          301823,
+          292926,
+          "Miranda_Kerr",
+          0
+        ]
+      ],
+      [
+        [
+          304820,
+          295635,
+          "Miranda_Kerr",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 40306,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "Michael Winterbottom often works with the same businesses.",
+    "evidence": [
+      [
+        [
+          120875,
+          135167,
+          "Michael_Winterbottom",
+          7
+        ]
+      ],
+      [
+        [
+          120876,
+          135168,
+          "Michael_Winterbottom",
+          7
+        ]
+      ],
+      [
+        [
+          120877,
+          135169,
+          "Michael_Winterbottom",
+          7
+        ]
+      ],
+      [
+        [
+          120878,
+          135170,
+          "Michael_Winterbottom",
+          7
+        ]
+      ],
+      [
+        [
+          120879,
+          135171,
+          "Michael_Winterbottom",
+          7
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 167607,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Indian was selected for the Best Foreign Language Film.",
+    "evidence": [
+      [
+        [
+          192927,
+          203596,
+          "Indian_-LRB-1996_film-RRB-",
+          9
+        ]
+      ],
+      [
+        [
+          192980,
+          203627,
+          "Indian_-LRB-1996_film-RRB-",
+          9
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 205538,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "Wyatt Earp worked to extract valuable minerals and he was American.",
+    "evidence": [
+      [
+        [
+          242859,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 156139,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Milla Jovovich was in Return to the Blue Lagoon, an explicit romance film, when she was 15.",
+    "evidence": [
+      [
+        [
+          180195,
+          192733,
+          "Milla_Jovovich",
+          11
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 143172,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "Thomas Pynchon wrote the novel Undertale.",
+    "evidence": [
+      [
+        [
+          166241,
+          null,
+          null,
+          null
+        ],
+        [
+          166242,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 181787,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Beyoncé is American.",
+    "evidence": [
+      [
+        [
+          211359,
+          219074,
+          "Beyoncé",
+          0
+        ]
+      ],
+      [
+        [
+          211359,
+          219075,
+          "Beyoncé",
+          1
+        ]
+      ],
+      [
+        [
+          211359,
+          219076,
+          "Beyoncé",
+          3
+        ],
+        [
+          211359,
+          219076,
+          "Crazy_in_Love",
+          0
+        ]
+      ],
+      [
+        [
+          211359,
+          219077,
+          "Beyoncé",
+          6
+        ],
+        [
+          211359,
+          219077,
+          "B'Day_-LRB-Beyoncé_album-RRB-",
+          0
+        ]
+      ],
+      [
+        [
+          211359,
+          219078,
+          "Beyoncé",
+          9
+        ],
+        [
+          211359,
+          219078,
+          "4_-LRB-Beyoncé_album-RRB-",
+          0
+        ]
+      ],
+      [
+        [
+          211359,
+          219079,
+          "Beyoncé",
+          10
+        ],
+        [
+          211359,
+          219079,
+          "Beyoncé_-LRB-album-RRB-",
+          0
+        ]
+      ],
+      [
+        [
+          211359,
+          219080,
+          "Beyoncé",
+          11
+        ],
+        [
+          211359,
+          219080,
+          "Lemonade_-LRB-Beyoncé_album-RRB-",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 130339,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Louis C.K. was the director and star of the series Horace and Pete.",
+    "evidence": [
+      [
+        [
+          152641,
+          167410,
+          "Louis_C.K.",
+          7
+        ],
+        [
+          152641,
+          167410,
+          "Horace_and_Pete",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 73229,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Abraham Lincoln is dead.",
+    "evidence": [
+      [
+        [
+          89994,
+          102674,
+          "Abraham_Lincoln",
+          0
+        ]
+      ],
+      [
+        [
+          89994,
+          102675,
+          "Abraham_Lincoln",
+          33
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 138916,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "The Beatles members were monkeys.",
+    "evidence": [
+      [
+        [
+          161715,
+          176145,
+          "The_Beatles",
+          3
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 208049,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "The action comedy film Baby Driver was subtitled in one hundred languages.",
+    "evidence": [
+      [
+        [
+          246146,
+          null,
+          null,
+          null
+        ],
+        [
+          246147,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 160112,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "Jeremy Allen White is an American television director.",
+    "evidence": [
+      [
+        [
+          184580,
+          196466,
+          "Jeremy_Allen_White",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 71699,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Adolf Hitler also murdered hundreds of thousands of people he found undesirable.",
+    "evidence": [
+      [
+        [
+          88380,
+          100996,
+          "Adolf_Hitler",
+          29
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 95000,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "The power levels of New Orleans is 343,829.",
+    "evidence": [
+      [
+        [
+          112480,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 133583,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "The Golden Girls passed over Rue McClanahan for a role in the show.",
+    "evidence": [
+      [
+        [
+          156126,
+          170757,
+          "The_Golden_Girls",
+          1
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 219485,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "Jerry Goldsmith failed to collaborate with anybody during his career.",
+    "evidence": [
+      [
+        [
+          261140,
+          259375,
+          "Jerry_Goldsmith",
+          4
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 74780,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "Before Night Falls is directed by a monkey.",
+    "evidence": [
+      [
+        [
+          91567,
+          104307,
+          "Before_Night_Falls_-LRB-film-RRB-",
+          0
+        ],
+        [
+          91567,
+          104307,
+          "Julian_Schnabel",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 203348,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Saratoga includes Clark Gable, Jean Harlow, Lionel Barrymore, Frank Morgan, Walter Pidgeon, Hattie McDaniel, and Margaret Hamilton.",
+    "evidence": [
+      [
+        [
+          239871,
+          241562,
+          "Saratoga_-LRB-film-RRB-",
+          1
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 23869,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Chris Evans moved to London.",
+    "evidence": [
+      [
+        [
+          39809,
+          47894,
+          "Chris_Evans_-LRB-presenter-RRB-",
+          1
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 105712,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "Richard Nixon ran in the Boston Marathon in 1968.",
+    "evidence": [
+      [
+        [
+          124059,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 59296,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Blue whales almost went extinct before becoming a protected species.",
+    "evidence": [
+      [
+        [
+          75712,
+          86974,
+          "Blue_whale",
+          11
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 165988,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Bad and Boujee was co-authored by G Koop.",
+    "evidence": [
+      [
+        [
+          190868,
+          201786,
+          "Bad_and_Boujee",
+          3
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 158026,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Maria Sharapova is an athlete.",
+    "evidence": [
+      [
+        [
+          182290,
+          194549,
+          "Maria_Sharapova",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 73514,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Wonder Woman has appeared in the Justice Society comics by DC.",
+    "evidence": [
+      [
+        [
+          90315,
+          103064,
+          "Wonder_Woman",
+          21
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 134488,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "Katharine Hepburn was always herself.",
+    "evidence": [
+      [
+        [
+          157038,
+          171596,
+          "Katharine_Hepburn",
+          1
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 228300,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "The Silence of the Lambs is a 1991 film.",
+    "evidence": [
+      [
+        [
+          272371,
+          268064,
+          "The_Silence_of_the_Lambs_-LRB-film-RRB-",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 170710,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Diana is a studio album by Diana Ross.",
+    "evidence": [
+      [
+        [
+          196961,
+          207031,
+          "Diana_-LRB-album-RRB-",
+          0
+        ]
+      ],
+      [
+        [
+          196961,
+          207032,
+          "Diana_-LRB-album-RRB-",
+          1
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 96347,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "Walt Disney is unknown in America.",
+    "evidence": [
+      [
+        [
+          113891,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 91397,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "The theory describing cells was first developed in the 19th century.",
+    "evidence": [
+      [
+        [
+          108736,
+          122418,
+          "Cell_-LRB-biology-RRB-",
+          12
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 55333,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "School 2013 stars Janet Jackson.",
+    "evidence": [
+      [
+        [
+          71689,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 54782,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "Singapore reinforces political rights.",
+    "evidence": [
+      [
+        [
+          169404,
+          183053,
+          "Singapore",
+          26
+        ]
+      ],
+      [
+        [
+          173304,
+          186568,
+          "Singapore",
+          26
+        ]
+      ],
+      [
+        [
+          312623,
+          302394,
+          "Singapore",
+          26
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 51498,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "Mike Judge is French.",
+    "evidence": [
+      [
+        [
+          67824,
+          78670,
+          "Mike_Judge",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 155729,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "Clint Eastwood was in books.",
+    "evidence": [
+      [
+        [
+          179783,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 64634,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "Tezaab became a golden jubilee in 2010.",
+    "evidence": [
+      [
+        [
+          81073,
+          92904,
+          "Tezaab",
+          9
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 73563,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "Ruth Negga was not born in Ethiopia.",
+    "evidence": [
+      [
+        [
+          90358,
+          103104,
+          "Ruth_Negga",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 15837,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "The Uruguay national football team is a FIFA World Cup winner.",
+    "evidence": [
+      [
+        [
+          43290,
+          51925,
+          "Uruguay_national_football_team",
+          6
+        ]
+      ],
+      [
+        [
+          45579,
+          54438,
+          "Uruguay_national_football_team",
+          6
+        ]
+      ],
+      [
+        [
+          302076,
+          293138,
+          "Uruguay_national_football_team",
+          6
+        ]
+      ],
+      [
+        [
+          303646,
+          294588,
+          "Uruguay_national_football_team",
+          6
+        ]
+      ],
+      [
+        [
+          304637,
+          295450,
+          "Uruguay_national_football_team",
+          6
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 124975,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "The Girl on the Train is a film without any mystery.",
+    "evidence": [
+      [
+        [
+          146610,
+          161599,
+          "The_Girl_on_the_Train_-LRB-2016_film-RRB-",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 214227,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "Syria includes Jewish people.",
+    "evidence": [
+      [
+        [
+          254318,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 27248,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "One Direction are parents.",
+    "evidence": [
+      [
+        [
+          43378,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 213068,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Marlon Brando received a nomination.",
+    "evidence": [
+      [
+        [
+          252720,
+          252522,
+          "Marlon_Brando",
+          3
+        ]
+      ],
+      [
+        [
+          252720,
+          252523,
+          "Marlon_Brando",
+          8
+        ]
+      ],
+      [
+        [
+          252720,
+          252524,
+          "Marlon_Brando",
+          10
+        ]
+      ],
+      [
+        [
+          252720,
+          252525,
+          "Marlon_Brando",
+          17
+        ]
+      ],
+      [
+        [
+          252720,
+          252526,
+          "Marlon_Brando",
+          19
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 155556,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "Hong Kong maintains a combined economic system with China.",
+    "evidence": [
+      [
+        [
+          179614,
+          192180,
+          "Hong_Kong",
+          10
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 35285,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Jet Li was the main actor in a martial arts movie.",
+    "evidence": [
+      [
+        [
+          51510,
+          61258,
+          "Jet_Li",
+          5
+        ],
+        [
+          51510,
+          61258,
+          "Shaolin_Temple_-LRB-1982_film-RRB-",
+          0
+        ]
+      ],
+      [
+        [
+          51510,
+          61259,
+          "Jet_Li",
+          6
+        ],
+        [
+          51510,
+          61259,
+          "Fist_of_Legend",
+          0
+        ]
+      ],
+      [
+        [
+          51510,
+          61260,
+          "Jet_Li",
+          10
+        ],
+        [
+          51510,
+          61260,
+          "Unleashed_-LRB-film-RRB-",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 138847,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Caitlyn Jenner made her name different.",
+    "evidence": [
+      [
+        [
+          161646,
+          176073,
+          "Caitlyn_Jenner",
+          11
+        ]
+      ],
+      [
+        [
+          161646,
+          176074,
+          "Caitlyn_Jenner",
+          12
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 88856,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Jim Henson was the inventor of the Muppets.",
+    "evidence": [
+      [
+        [
+          106083,
+          119457,
+          "Jim_Henson",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 185843,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "Curse, Inc. is an art client.",
+    "evidence": [
+      [
+        [
+          216709,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 67298,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "Hawaii is a county.",
+    "evidence": [
+      [
+        [
+          83902,
+          95954,
+          "Hawaii",
+          1
+        ]
+      ],
+      [
+        [
+          83902,
+          95955,
+          "Hawaii",
+          2
+        ]
+      ],
+      [
+        [
+          83902,
+          95956,
+          "Hawaii",
+          4
+        ]
+      ],
+      [
+        [
+          83902,
+          95957,
+          "Hawaii",
+          7
+        ]
+      ],
+      [
+        [
+          83902,
+          95958,
+          "Hawaii",
+          9
+        ]
+      ],
+      [
+        [
+          83902,
+          95959,
+          "Hawaii",
+          19
+        ]
+      ],
+      [
+        [
+          83902,
+          95960,
+          "Hawaii",
+          20
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 121214,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Gimli is a character.",
+    "evidence": [
+      [
+        [
+          142329,
+          157530,
+          "Gimli_-LRB-Middle-earth-RRB-",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 219571,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Vanilla Sky stars an actress.",
+    "evidence": [
+      [
+        [
+          261239,
+          259428,
+          "Vanilla_Sky",
+          5
+        ],
+        [
+          261239,
+          259428,
+          "Cameron_Diaz",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 31933,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "Attack on Titan began in Kodansha's Bessatsu Shōnen Magazine on September 9, 2009 at 8pm.",
+    "evidence": [
+      [
+        [
+          48063,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 88834,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "Just Dance was released in a coffin.",
+    "evidence": [
+      [
+        [
+          106055,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 124296,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "New York City has over 40 colleges and universities.",
+    "evidence": [
+      [
+        [
+          145827,
+          160849,
+          "New_York_City",
+          33
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 58471,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "The Fosters is a state.",
+    "evidence": [
+      [
+        [
+          74837,
+          86059,
+          "The_Fosters_-LRB-2013_TV_series-RRB-",
+          0
+        ]
+      ],
+      [
+        [
+          74837,
+          86060,
+          "The_Fosters_-LRB-2013_TV_series-RRB-",
+          1
+        ]
+      ],
+      [
+        [
+          74837,
+          86061,
+          "The_Fosters_-LRB-2013_TV_series-RRB-",
+          4
+        ]
+      ],
+      [
+        [
+          74837,
+          86062,
+          "The_Fosters_-LRB-2013_TV_series-RRB-",
+          5
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 196807,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Sean Connery was awarded a BAFTA Academy Fellowship Award.",
+    "evidence": [
+      [
+        [
+          231249,
+          234768,
+          "Sean_Connery",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 215813,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "J. Howard Marshall was a North American.",
+    "evidence": [
+      [
+        [
+          256397,
+          255621,
+          "J._Howard_Marshall",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 25251,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "Steve Coogan produced What Maisie Knew.",
+    "evidence": [
+      [
+        [
+          41208,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 79574,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Jeffrey Dahmer has been to Wisconsin.",
+    "evidence": [
+      [
+        [
+          96517,
+          109691,
+          "Jeffrey_Dahmer",
+          5
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 124478,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "Nicole Scherzinger helped create a lasting peace between Israel and Egypt.",
+    "evidence": [
+      [
+        [
+          146026,
+          null,
+          null,
+          null
+        ],
+        [
+          146066,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 89888,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "Rosamund Pike is a widow.",
+    "evidence": [
+      [
+        [
+          107200,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 133334,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "A crown colony is also known as a country.",
+    "evidence": [
+      [
+        [
+          155875,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 84224,
+    "verifiable": "VERIFIABLE",
+    "label": "REFUTES",
+    "claim": "Slovakia is not a country.",
+    "evidence": [
+      [
+        [
+          101263,
+          114503,
+          "Slovakia",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 22994,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Musée National d'Art Moderne can be found in the Beaubourg area.",
+    "evidence": [
+      [
+        [
+          38970,
+          46958,
+          "Musée_National_d'Art_Moderne",
+          1
+        ],
+        [
+          38970,
+          46958,
+          "Centre_Georges_Pompidou",
+          5
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 39271,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Frédéric Auguste Bartholdi was born on Monday August 2, 1834.",
+    "evidence": [
+      [
+        [
+          55503,
+          65541,
+          "Frédéric_Auguste_Bartholdi",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 71026,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "Iain Glen is a comedy television actor.",
+    "evidence": [
+      [
+        [
+          87694,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 133949,
+    "verifiable": "NOT VERIFIABLE",
+    "label": "NOT ENOUGH INFO",
+    "claim": "Natalie Wood worked in films when she was seven years old.",
+    "evidence": [
+      [
+        [
+          287703,
+          null,
+          null,
+          null
+        ],
+        [
+          289463,
+          null,
+          null,
+          null
+        ],
+        [
+          291003,
+          null,
+          null,
+          null
+        ],
+        [
+          336212,
+          null,
+          null,
+          null
+        ],
+        [
+          336214,
+          null,
+          null,
+          null
+        ],
+        [
+          336232,
+          null,
+          null,
+          null
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 778,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Weightlifting Fairy Kim Bok-joo is a television show.",
+    "evidence": [
+      [
+        [
+          16258,
+          20156,
+          "Weightlifting_Fairy_Kim_Bok-joo",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 94277,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "American film Fight Club was directed by American director David Fincher.",
+    "evidence": [
+      [
+        [
+          111709,
+          125526,
+          "Fight_Club",
+          1
+        ],
+        [
+          111709,
+          125526,
+          "Fight_Club",
+          0
+        ],
+        [
+          111709,
+          125526,
+          "David_Fincher",
+          0
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 220759,
+    "verifiable": "VERIFIABLE",
+    "label": "SUPPORTS",
+    "claim": "Winona Rider was nominated.",
+    "evidence": [
+      [
+        [
+          262753,
+          260644,
+          "Winona_Ryder",
+          4
+        ]
+      ],
+      [
+        [
+          262753,
+          260645,
+          "Winona_Ryder",
+          7
+        ]
+      ],
+      [
+        [
+          262753,
+          260646,
+          "Winona_Ryder",
+          19
+        ]
+      ],
+      [
+        [
+          262753,
+          260647,
+          "Winona_Ryder",
+          21
+        ]
+      ]
+    ]
+  }
+]
