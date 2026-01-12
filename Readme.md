@@ -45,7 +45,6 @@ python Tool_MAD.py
 ## References
 
 ```
-
 @misc{jeong2026toolmadmultiagentdebateframework,
       title={Tool-MAD: A Multi-Agent Debate Framework for Fact Verification with Diverse Tool Augmentation and Adaptive Retrieval}, 
       author={Seyeon Jeong and Yeonjun Choi and JongWook Kim and Beakcheol Jang},
