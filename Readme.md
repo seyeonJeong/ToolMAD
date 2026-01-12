@@ -42,8 +42,8 @@ Before running Tool-MAD, you need to configure all API keys and settings in the 
 Open the `config.py` file in each dataset folder (AVERITEC, FEVER, FAVIQ, FEVEROUS) and update the following values:
 
 ```python
-OPENAI_API_KEY = "sk-your-openai-api-key-here"
-TAVILY_API_KEY = "tvly-your-tavily-api-key-here"
+OPENAI_API_KEY = "your-openai-api-key-here"
+TAVILY_API_KEY = "your-tavily-api-key-here"
 
 MILVUS_HOST = "localhost"
 MILVUS_PORT = "19530"
