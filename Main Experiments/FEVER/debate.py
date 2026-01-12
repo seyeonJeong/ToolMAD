@@ -8,10 +8,11 @@ from ragas.metrics import faithfulness, answer_relevancy
 from datasets import Dataset
 from langchain_openai import ChatOpenAI
 from ragas.evaluation import evaluate
+import config
 
 import re
 
-llm = ChatOpenAI(model="gpt-4o-mini", openai_api_key="your-open_api-key",temperature = 0.0)
+llm = ChatOpenAI(model=config.LLM_MODEL_NAME, openai_api_key=config.OPENAI_API_KEY, temperature=0.0)
 
 class Dabate:
     def __init__(self,agents,claim, collection, encoder, cross_encoder):

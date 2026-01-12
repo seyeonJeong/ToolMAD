@@ -4,46 +4,47 @@ from search_agent import SearchAgent
 from normal_agent import normal_llm
 from pymilvus import connections, Collection
 from sentence_transformers import SentenceTransformer
+from sentence_transformers import CrossEncoder
+import config
 
 import os
 import json
 
-os.environ["TAVILY_API_KEY"] = "your-tavily-api-key"
+embed_name = config.MODEL_FOLDER + config.EMBED_MODEL_NAME
+encoder = SentenceTransformer(embed_name, trust_remote_code=True)
+cross_encoder = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2')
 
-# for RAG
-model_folder = 'your-model-folder-path'
-embed_name = model_folder + "Alibaba-NLP/gte-large-en-v1.5"
-encoder = SentenceTransformer(embed_name, trust_remote_code= True)
-connections.connect(host = "localhost", port = "your-port", token = "your-token")
-collection_lists = 'your-collection-name'
-collection = Collection(name = collection_lists)
-
-
+connections.connect(
+    host=config.MILVUS_HOST, 
+    port=config.MILVUS_PORT, 
+    token=config.MILVUS_TOKEN if config.MILVUS_TOKEN and config.MILVUS_TOKEN != "your-token" else None
+)
+collection = Collection(name=config.MILVUS_COLLECTION_NAME)
 rag_agent = RAG_Agent(
         agent_name="RAGAgent",
         debate_mode="init_debate",
-        model_name="gpt-4o-mini",
-        sleep_time=0.5,
-        api_key="your-api-key",
-        collection = collection,
-        encoder = encoder
+        model_name=config.LLM_MODEL_NAME,
+        sleep_time=config.AGENT_SLEEP_TIME,
+        api_key=config.OPENAI_API_KEY,
+        collection=collection,
+        encoder=encoder
     )
 
-search_agent =  SearchAgent(
+search_agent = SearchAgent(
         agent_name="Tavily_Agent",
         agent_role="Agent using Tavily API",
-        debate_mode= "init_debate",
-        model_name="gpt-4o-mini",
-        sleep_time=0.5,
-        api_key="your-api-key"
+        debate_mode="init_debate",
+        model_name=config.LLM_MODEL_NAME,
+        sleep_time=config.AGENT_SLEEP_TIME,
+        api_key=config.OPENAI_API_KEY
     )
 
 normal_agent = normal_llm(
         debate_mode="initial debate",
         agent_name="Normal LLM",
-        model_name="gpt-4o-mini",
-        sleep_time=0.5,
-        api_key="your-api-key"
+        model_name=config.LLM_MODEL_NAME,
+        sleep_time=config.AGENT_SLEEP_TIME,
+        api_key=config.OPENAI_API_KEY
     )
 
 agents = [rag_agent, search_agent, normal_agent]
@@ -58,7 +59,7 @@ debate_history = []
 
 for idx, item in enumerate(sampled_items, start = 1):
     claim = item.get("claim", "No claim provided")
-    debate = Dabate(agents = agents, claim = claim, collection=collection, encoder=encoder)
+    debate = Dabate(agents=agents, claim=claim, collection=collection, encoder=encoder, cross_encoder=cross_encoder)
     
     ground_truth = item.get("label", "UNKNOWN").upper().strip()
     debate_history.append(debate.init_store(ground_truth))
@@ -138,5 +139,5 @@ output = {
 }
 
 
-with open("your-result-file-path", "w", encoding="utf-8") as f:
+with open(config.RESULT_FILE_PATH, "w", encoding="utf-8") as f:
     json.dump(output, f, ensure_ascii=False, indent=2)
