@@ -14,24 +14,45 @@ This repository implements **Tool-MAD**, a multi-agent debate framework for fact
 ---
 
 ## 📁 Project Structure
-├── Tool_MAD.py # Main script to run debate
-├── rag_agent.py # Retrieval-based agent (e.g., Milvus RAG)
-├── search_agent.py # Search engine-based agent
-├── normal_agent.py # Judge LLM agent
-├── debate.py # Debate flow and scoring
-├── fever_sample_dataset(main_baseline).json # Sample dataset
-└── requirements.txt # Dependency list
+- Tool_MAD.py # Main script to run debate
+- rag_agent.py # Retrieval-based agent (e.g., Milvus RAG)
+- search_agent.py # Search engine-based agent
+- normal_agent.py # Judge LLM agent
+- debate.py # Debate flow and scoring
+- fever_sample_dataset(main_baseline).json # Sample dataset
+- requirements.txt # Dependency list
 
 ## 🚀 Quick Start
 
 ### 1. Install Dependencies
 
+``` sh
 pip install -r requirements.txt
+
+```
 
 ### 2. Select dataset
 
+``` sh
 e.g., cd FEVER
 
+```
 ### 3. Run Tool-MAD
-
+``` sh
 python Tool_MAD.py
+```
+
+## References
+
+```
+
+@misc{jeong2026toolmadmultiagentdebateframework,
+      title={Tool-MAD: A Multi-Agent Debate Framework for Fact Verification with Diverse Tool Augmentation and Adaptive Retrieval}, 
+      author={Seyeon Jeong and Yeonjun Choi and JongWook Kim and Beakcheol Jang},
+      year={2026},
+      eprint={2601.04742},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2601.04742}, 
+}
+```
